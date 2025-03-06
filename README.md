@@ -2,6 +2,11 @@ Entrova is an AI-driven fraud detection system that leverages machine learning a
 
 After downloading the app or copying the repo 
 
+create a virtual environment by-> python -m venv "name of the virtual env"
+then run it by-> source "name of the virtual env"/bin/activate
+(both of the above are to be run on terminal)
+
+then 
 run (in the terminal)-> pip install pandas numpy vaderSentiment scikit-learn imbalanced-learn streamlit plotly-express 
 
 check with the requirement.txt regarding version compatibility
