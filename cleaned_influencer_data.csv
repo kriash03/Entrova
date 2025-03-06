@@ -1,0 +1,101 @@
+Influencer_ID,Name,Platform,Followers,Engagement_Rate,Niche,Avg_Likes,Avg_Comments,Audience_Age,Audience_Location,Past_Brand_Collabs,Fraud_Score,Male_Percentage,Female_Percentage
+1,Influencer_1,TikTok,765340,6.18,Fashion,47298,2252,23-41,UK,"Zara, L'Oreal, Nike",1,67.0,53.0
+2,Influencer_2,Instagram,270668,4.82,Music,13046,931,29-44,Australia,"Samsung, Tesla, Nike",3,51.0,52.0
+3,Influencer_3,TikTok,352022,2.63,Finance,9258,841,26-32,Germany,Uber Eats,4,60.0,19.0
+4,Influencer_4,Instagram,983553,5.61,Tech,55177,2758,26-44,Canada,"Uber Eats, Apple, H&M",8,60.0,23.0
+5,Influencer_5,YouTube,315287,6.74,Fashion,21250,965,28-44,Brazil,"Zara, Samsung",4,81.0,44.0
+6,Influencer_6,Twitter,602996,8.99,Tech,54209,2464,16-41,USA,"Sony, L'Oreal, Adidas",2,68.0,29.0
+7,Influencer_7,YouTube,204008,1.91,Food,3896,389,19-26,Canada,Sony,10,73.0,12.0
+8,Influencer_8,TikTok,943661,3.24,Music,30574,1528,19-28,UK,"Coca-Cola, Sony, Uber Eats",6,90.0,47.0
+9,Influencer_9,Instagram,454468,2.68,Travel,12179,507,27-39,UK,"Nike, Adidas",10,78.0,26.0
+10,Influencer_10,TikTok,442388,8.93,Fitness,39505,2633,24-34,USA,"Adidas, Tesla",9,80.0,45.0
+11,Influencer_11,YouTube,202274,4.31,Beauty,8718,544,22-42,Brazil,"Samsung, H&M, L'Oreal",2,50.0,57.0
+12,Influencer_12,TikTok,16292,9.08,Lifestyle,1479,52,22-35,Canada,"Apple, H&M",10,84.0,30.0
+13,Influencer_13,TikTok,197139,9.21,Lifestyle,18156,907,25-33,Canada,Tesla,2,61.0,31.0
+14,Influencer_14,Twitter,197090,3.61,Food,7114,296,20-36,Canada,"Zara, Tesla, Sony",9,43.0,59.0
+15,Influencer_15,YouTube,91348,5.01,Lifestyle,4576,381,20-40,USA,"H&M, Adidas",4,73.0,34.0
+16,Influencer_16,YouTube,951077,4.73,Tech,44985,2811,25-40,South Korea,"Tesla, Zara",8,68.0,31.0
+17,Influencer_17,YouTube,910838,3.4,Tech,30968,1407,29-42,India,"Tesla, Uber Eats",2,62.0,59.0
+18,Influencer_18,YouTube,627355,1.83,Beauty,11480,382,17-29,UK,"H&M, Nike",8,87.0,49.0
+19,Influencer_19,YouTube,157827,7.88,Tech,12436,444,28-26,Germany,H&M,8,71.0,45.0
+20,Influencer_20,Instagram,406208,1.88,Gaming,7636,318,17-35,Germany,H&M,3,87.0,52.0
+21,Influencer_21,Twitter,488020,9.64,Tech,47045,3920,26-41,France,"Tesla, L'Oreal, Adidas",10,67.0,27.0
+22,Influencer_22,YouTube,841471,5.45,Finance,45860,2183,22-28,India,Samsung,8,53.0,21.0
+23,Influencer_23,Instagram,596873,8.9,Gaming,53121,2656,16-33,India,Nike,8,74.0,36.0
+24,Influencer_24,Instagram,965107,1.8,Tech,17371,1021,30-27,Japan,Sony,3,89.0,36.0
+25,Influencer_25,YouTube,845685,9.81,Finance,82961,7541,28-37,Brazil,Adidas,4,45.0,27.0
+26,Influencer_26,YouTube,215483,2.88,Beauty,6205,229,19-27,India,Uber Eats,5,72.0,41.0
+27,Influencer_27,Twitter,672790,2.38,Travel,16012,615,21-38,Canada,"Nike, Sony, Zara",1,81.0,26.0
+28,Influencer_28,YouTube,105148,9.1,Beauty,9568,341,26-38,UK,"Tesla, Nike, H&M",8,66.0,19.0
+29,Influencer_29,TikTok,754403,4.98,Food,37569,1252,22-44,Brazil,H&M,2,62.0,25.0
+30,Influencer_30,TikTok,860661,6.01,Fitness,51725,2069,21-33,Australia,"H&M, Sony, Uber Eats",10,66.0,48.0
+31,Influencer_31,Instagram,596796,8.27,Music,49355,1974,26-28,Canada,"Samsung, Tesla",8,81.0,49.0
+32,Influencer_32,YouTube,727701,2.83,Travel,20593,1584,29-39,Japan,"Uber Eats, H&M, L'Oreal",7,45.0,43.0
+33,Influencer_33,YouTube,919980,4.01,Lifestyle,36891,1229,29-25,UK,Sony,1,48.0,17.0
+34,Influencer_34,Twitter,188356,4.31,Finance,8118,405,20-37,France,"Adidas, Tesla, Uber Eats",3,79.0,29.0
+35,Influencer_35,Twitter,320566,8.03,Gaming,25741,1119,21-26,UK,"Coca-Cola, Sony",8,72.0,55.0
+36,Influencer_36,YouTube,420247,7.53,Travel,31644,1438,19-44,Canada,"Coca-Cola, Tesla, H&M",6,61.0,24.0
+37,Influencer_37,TikTok,80420,6.32,Tech,5082,211,22-42,France,L'Oreal,3,71.0,22.0
+38,Influencer_38,YouTube,167249,7.61,Food,12727,424,27-42,Canada,Coca-Cola,6,79.0,25.0
+39,Influencer_39,TikTok,402368,5.93,Fitness,23860,822,27-41,USA,"Tesla, Nike, Zara",1,56.0,40.0
+40,Influencer_40,YouTube,888835,7.4,Beauty,65773,2268,22-30,Australia,"Zara, Coca-Cola",10,89.0,12.0
+41,Influencer_41,YouTube,730874,1.77,Gaming,12936,760,17-31,India,"Uber Eats, Apple, L'Oreal",9,47.0,22.0
+42,Influencer_42,Instagram,388727,7.79,Gaming,30281,1593,25-34,Japan,Tesla,3,78.0,18.0
+43,Influencer_43,Instagram,402574,2.21,Tech,8896,317,20-40,South Korea,"Uber Eats, Nike, Coca-Cola",4,58.0,35.0
+44,Influencer_44,Twitter,812941,6.17,Fashion,50158,2180,19-29,Brazil,"Coca-Cola, Adidas",5,65.0,42.0
+45,Influencer_45,Instagram,156575,5.83,Finance,9128,608,25-44,South Korea,Apple,3,49.0,33.0
+46,Influencer_46,YouTube,162950,3.44,Fitness,5605,233,19-36,Australia,"Adidas, Apple, L'Oreal",9,81.0,15.0
+47,Influencer_47,YouTube,683319,6.44,Music,44005,1466,17-44,Brazil,"L'Oreal, Coca-Cola",9,67.0,48.0
+48,Influencer_48,YouTube,755772,6.95,Gaming,52526,1875,21-41,France,"Samsung, Nike, L'Oreal",7,66.0,26.0
+49,Influencer_49,YouTube,883651,3.03,Gaming,26774,1574,30-26,Japan,Coca-Cola,3,50.0,36.0
+50,Influencer_50,TikTok,70578,1.65,Lifestyle,1164,43,19-30,India,"Adidas, L'Oreal, Apple",2,64.0,49.0
+51,Influencer_51,TikTok,631497,5.01,Food,31637,2109,23-26,Japan,"Adidas, Sony",7,41.0,58.0
+52,Influencer_52,YouTube,576827,3.68,Beauty,21227,1768,24-28,UK,"H&M, Apple",7,52.0,19.0
+53,Influencer_53,Instagram,521106,3.44,Gaming,17926,746,20-27,Canada,Adidas,6,50.0,40.0
+54,Influencer_54,Twitter,715078,4.19,Travel,29961,1302,22-43,Brazil,Coca-Cola,8,45.0,26.0
+55,Influencer_55,YouTube,239183,3.48,Lifestyle,8323,297,22-41,South Korea,Apple,9,86.0,14.0
+56,Influencer_56,TikTok,433491,2.85,Music,12354,514,19-35,South Korea,"Coca-Cola, Uber Eats",5,53.0,51.0
+57,Influencer_57,TikTok,586644,5.15,Finance,30212,1373,23-28,Australia,"Coca-Cola, L'Oreal, Adidas",1,88.0,45.0
+58,Influencer_58,YouTube,332484,9.45,Gaming,31419,1653,19-44,South Korea,"L'Oreal, Nike",7,90.0,29.0
+59,Influencer_59,Instagram,825552,3.29,Finance,27160,936,29-28,UK,Zara,10,60.0,33.0
+60,Influencer_60,YouTube,440449,9.78,Food,43075,1485,20-31,South Korea,Zara,2,48.0,17.0
+61,Influencer_61,Twitter,761375,3.51,Finance,26724,1113,26-33,Brazil,"L'Oreal, Apple",7,87.0,43.0
+62,Influencer_62,YouTube,968303,2.33,Finance,22561,902,27-33,France,"Samsung, Zara",4,40.0,58.0
+63,Influencer_63,YouTube,414682,4.6,Tech,19075,1192,27-38,USA,"Nike, Sony",9,83.0,17.0
+64,Influencer_64,YouTube,322546,7.74,Beauty,24965,832,25-40,South Korea,"H&M, Coca-Cola",2,46.0,14.0
+65,Influencer_65,Twitter,902362,5.72,Fashion,51615,2346,24-45,South Korea,Nike,3,81.0,28.0
+66,Influencer_66,TikTok,697853,7.11,Beauty,49617,3544,24-34,Brazil,"Zara, Tesla",1,68.0,59.0
+67,Influencer_67,Twitter,99008,8.83,Tech,8742,380,16-27,Canada,"Nike, Sony, Uber Eats",5,41.0,41.0
+68,Influencer_68,Instagram,877824,9.32,Fitness,81813,3408,23-40,Australia,"Coca-Cola, Samsung, Tesla",1,61.0,36.0
+69,Influencer_69,TikTok,833841,2.26,Fitness,18844,753,21-39,Australia,"Zara, Apple, Coca-Cola",4,65.0,50.0
+70,Influencer_70,Twitter,453186,9.65,Lifestyle,43732,1619,18-26,Australia,"Samsung, Tesla",9,79.0,35.0
+71,Influencer_71,Instagram,230489,4.98,Travel,11478,425,22-43,Canada,H&M,5,63.0,48.0
+72,Influencer_72,TikTok,294453,6.01,Fitness,17696,1608,18-26,India,"Adidas, H&M, Tesla",1,45.0,47.0
+73,Influencer_73,Instagram,783610,9.43,Fashion,73894,3078,19-28,South Korea,"Samsung, H&M",8,84.0,35.0
+74,Influencer_74,TikTok,119297,2.28,Fashion,2719,104,22-43,France,"Zara, L'Oreal",8,84.0,53.0
+75,Influencer_75,Instagram,629501,8.04,Finance,50611,2410,26-35,UK,"Tesla, H&M, Coca-Cola",6,47.0,29.0
+76,Influencer_76,YouTube,724192,9.9,Finance,71695,2757,19-35,Brazil,Coca-Cola,8,62.0,15.0
+77,Influencer_77,TikTok,684720,7.55,Music,51696,2067,27-39,Australia,H&M,3,89.0,27.0
+78,Influencer_78,Twitter,748171,8.95,Music,66961,2911,27-43,India,Apple,9,71.0,43.0
+79,Influencer_79,TikTok,388189,7.78,Gaming,30201,1589,29-38,France,"Nike, Zara, Adidas",10,52.0,20.0
+80,Influencer_80,YouTube,852955,2.97,Fitness,25332,2533,23-43,India,Tesla,9,65.0,60.0
+81,Influencer_81,TikTok,841660,4.98,Food,41914,1995,17-44,India,"Tesla, Coca-Cola",2,81.0,42.0
+82,Influencer_82,Twitter,735955,4.45,Travel,32749,2183,19-32,Germany,"Tesla, Nike",10,62.0,50.0
+83,Influencer_83,YouTube,95946,1.76,Finance,1688,76,16-44,USA,Tesla,8,76.0,27.0
+84,Influencer_84,Twitter,696454,6.57,Food,45757,4575,30-28,UK,"Adidas, Sony",7,67.0,38.0
+85,Influencer_85,Instagram,520138,7.49,Fashion,38958,1558,24-30,UK,"L'Oreal, H&M",10,60.0,53.0
+86,Influencer_86,Instagram,414166,2.28,Gaming,9442,786,21-28,Germany,"L'Oreal, Sony",2,61.0,36.0
+87,Influencer_87,Instagram,514329,5.52,Fashion,28390,1091,23-31,India,"Uber Eats, Sony, Nike",4,75.0,54.0
+88,Influencer_88,Instagram,603079,8.24,Fashion,49693,3549,23-29,Australia,"Uber Eats, Coca-Cola, Apple",4,51.0,44.0
+89,Influencer_89,YouTube,404523,7.89,Tech,31916,1387,24-26,Australia,Sony,1,42.0,46.0
+90,Influencer_90,Twitter,30896,2.1,Fashion,648,40,20-44,Germany,"Zara, Samsung, Uber Eats",9,74.0,57.0
+91,Influencer_91,YouTube,212370,6.75,Lifestyle,14334,895,30-45,UK,Tesla,7,56.0,29.0
+92,Influencer_92,Instagram,981829,9.81,Finance,96317,3210,17-26,France,"Samsung, Sony, Apple",4,55.0,30.0
+93,Influencer_93,Instagram,920983,2.68,Finance,24682,914,29-33,Japan,"Samsung, L'Oreal, Zara",9,64.0,24.0
+94,Influencer_94,Instagram,403383,8.96,Travel,36143,1445,23-36,India,"H&M, Samsung, Tesla",8,41.0,30.0
+95,Influencer_95,Instagram,61476,8.14,Fitness,5004,250,24-35,USA,"Coca-Cola, L'Oreal",4,73.0,30.0
+96,Influencer_96,Instagram,272898,3.73,Gaming,10179,678,21-43,USA,"Apple, Sony",4,82.0,41.0
+97,Influencer_97,YouTube,794562,9.82,Tech,78025,7093,21-43,Brazil,"L'Oreal, Coca-Cola, Adidas",1,60.0,14.0
+98,Influencer_98,Instagram,382097,2.32,Food,8864,554,28-45,UK,Samsung,8,68.0,15.0
+99,Influencer_99,Instagram,560026,9.39,Fitness,52586,1752,23-25,Germany,"Samsung, L'Oreal",6,41.0,27.0
+100,Influencer_100,Twitter,135876,7.03,Lifestyle,9552,561,22-26,France,"L'Oreal, Sony",10,80.0,44.0
