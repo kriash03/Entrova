@@ -1,0 +1,16 @@
+# Ignore Python environment & dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+site-packages/
+
+# Ignore binary files
+bin/
+*.so
+*.o
+*.dll
+*.exe
